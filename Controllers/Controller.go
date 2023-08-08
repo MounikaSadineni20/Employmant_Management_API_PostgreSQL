@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"net/http"
 	"strconv"
-
 	database "vscode/employeeapidatabase/database"
 	entity "vscode/employeeapidatabase/entities"
 
